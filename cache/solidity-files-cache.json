@@ -1,0 +1,45 @@
+{
+  "_format": "hh-sol-cache-2",
+  "files": {
+    "/Users/yaswithakurra/Documents/RPSPvP/contracts/RPSPvP.sol": {
+      "lastModificationDate": 1747758902388,
+      "contentHash": "ca050cad76831a90a4201d100fee6696",
+      "sourceName": "contracts/RPSPvP.sol",
+      "solcConfig": {
+        "version": "0.8.22",
+        "settings": {
+          "optimizer": {
+            "enabled": true,
+            "runs": 1000
+          },
+          "metadata": {
+            "bytecodeHash": "ipfs",
+            "useLiteralContent": true
+          },
+          "evmVersion": "london",
+          "outputSelection": {
+            "*": {
+              "*": [
+                "abi",
+                "evm.bytecode",
+                "evm.deployedBytecode",
+                "evm.methodIdentifiers",
+                "metadata"
+              ],
+              "": [
+                "ast"
+              ]
+            }
+          }
+        }
+      },
+      "imports": [],
+      "versionPragmas": [
+        "^0.8.22"
+      ],
+      "artifacts": [
+        "RPSPvP"
+      ]
+    }
+  }
+}
